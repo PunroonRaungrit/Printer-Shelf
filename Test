@@ -1,7 +1,0 @@
-echo "# Printer-Shelf" >> README.md
-git init
-git add README.md
-git commit -m "Test"
-git branch -M main
-git remote add origin https://github.com/PunroonRaungrit/Printer-Shelf.git
-git push -u origin main
